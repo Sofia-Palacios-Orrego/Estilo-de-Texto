@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    padding: 0;
+} 
+
+#first {
+    color: white;
+}
+
+h1 {
+    background-color: black;
+    color: aqua; 
+    font-family: 'Balsamiq Sans';
+    padding-left: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-size: 55px;
+    margin-bottom: 10px;
+}
+
+h2{
+    background-color: rgba(102,51,153,255);
+    font-family: 'Balsamiq Sans';
+    color:white;
+    text-align: center; 
+    font-weight: lighter;
+    font-style: italic;
+    font-size: 40px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    margin-bottom: 10px;
+}
+
+body {
+    margin: 20px 20px 20px 20px;
+}
+h3 {
+    background-color:rgba(159,196,248,255);
+    text-align: right;
+    font-family: 'Balsamiq Sans';
+    font-weight: lighter;
+    text-decoration: underline;
+    font-size: 25px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    padding-right: 20px;
+}
